@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1. Udacity Programming Foundations with Python.iml" filepath="$PROJECT_DIR$/.idea/1. Udacity Programming Foundations with Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Seal_nav_ftp/.idea/Seal_nav_ftp.iml" filepath="$PROJECT_DIR$/../Seal_nav_ftp/.idea/Seal_nav_ftp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bike_elec_generation/.idea/bike_elec_generation.iml" filepath="$PROJECT_DIR$/../bike_elec_generation/.idea/bike_elec_generation.iml" />
+    </modules>
+  </component>
+</project>
